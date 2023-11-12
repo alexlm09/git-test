@@ -1,2 +1,2 @@
 # git-test
-First GutHub repo
+First GitHub repo
